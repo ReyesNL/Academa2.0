@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "horarios": [
+    {
+      "id": "H-SOF",
+      "carrera": "SOF",
+      "fecha_generacion": "2026-10-19T00:18:23",
+      "estado": "PENDIENTE",
+      "revisado_por": null,
+      "fecha_revision": null,
+      "observacion": "",
+      "sesiones": [
+        {
+          "id": 1,
+          "materia": "SOF-M3",
+          "docente": "FCI-D1",
+          "curso": "SOF-N1A",
+          "aula": "FCI-LC1",
+          "franja": "LUN-07",
+          "especialidad": "Cómputo"
+        },
+        {
+          "id": 2,
+          "materia": "SOF-M2",
+          "docente": "FCI-D2",
+          "curso": "SOF-N1A",
+          "aula": "FCI-101",
+          "franja": "LUN-09",
+          "especialidad": null
+        },
+        {
+          "id": 3,
+          "materia": "SOF-M4",
+          "docente": "FCI-D2",
+          "curso": "SOF-N1A",
+          "aula": "FCI-LC1",
+          "franja": "MAR-07",
+          "especialidad": "Cómputo"
+        },
+        {
+          "id": 4,
+          "materia": "SOF-M2",
+          "docente": "FCI-D2",
+          "curso": "SOF-N1A",
+          "aula": "FCI-101",
+          "franja": "MAR-09",
+          "especialidad": null
+        },
+        {
+          "id": 5,
+          "materia": "SOF-M5",
+          "docente": "FCI-D4",
+          "curso": "SOF-N1A",
+          "aula": "FCI-101",
+          "franja": "MAR-11",
+          "especialidad": null
+        },
+        {
+          "id": 6,
+          "materia": "SOF-M4",
+          "docente": "FCI-D2",
+          "curso": "SOF-N1A",
+          "aula": "FCI-LC1",
+          "franja": "MIE-07",
+          "especialidad": "Cómputo"
+        },
+        {
+          "id": 7,
+          "materia": "SOF-M3",
+          "docente": "FCI-D1",
+          "curso": "SOF-N1A",
+          "aula": "FCI-102",
+          "franja": "MIE-09",
+          "especialidad": null
+        },
+        {
+          "id": 8,
+          "materia": "SOF-M1",
+          "docente": "FCI-D4",
+          "curso": "SOF-N1A",
+          "aula": "FCI-101",
+          "franja": "JUE-07",
+          "especialidad": null
+        },
+        {
+          "id": 9,
+          "materia": "SOF-M3",
+          "docente": "FCI-D1",
+          "curso": "SOF-N1A",
+          "aula": "FCI-101",
+          "franja": "JUE-09",
+          "especialidad": null
+        },
+        {
+          "id": 10,
+          "materia": "SOF-M1",
+          "docente": "FCI-D4",
+          "curso": "SOF-N1A",
+          "aula": "FCI-101",
+          "franja": "VIE-07",
+          "especialidad": null
+        },
+        {
+          "id": 11,
+          "materia": "SOF-M5",
+          "docente": "FCI-D4",
+          "curso": "SOF-N1A",
+          "aula": "FCI-102",
+          "franja": "VIE-09",
+          "especialidad": null
+        },
+        {
+          "id": 12,
+          "materia": "SOF-M3",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-LC2",
+          "franja": "LUN-07",
+          "especialidad": "Cómputo"
+        },
+        {
+          "id": 13,
+          "materia": "SOF-M5",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-102",
+          "franja": "LUN-09",
+          "especialidad": null
+        },
+        {
+          "id": 14,
+          "materia": "SOF-M4",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-LC2",
+          "franja": "MAR-07",
+          "especialidad": "Cómputo"
+        },
+        {
+          "id": 15,
+          "materia": "SOF-M2",
+          "docente": "FCI-D4",
+          "curso": "SOF-N1B",
+          "aula": "FCI-102",
+          "franja": "MAR-09",
+          "especialidad": null
+        },
+        {
+          "id": 16,
+          "materia": "SOF-M5",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-102",
+          "franja": "MAR-11",
+          "especialidad": null
+        },
+        {
+          "id": 17,
+          "materia": "SOF-M4",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-LC2",
+          "franja": "MIE-07",
+          "especialidad": "Cómputo"
+        },
+        {
+          "id": 18,
+          "materia": "SOF-M2",
+          "docente": "FCI-D4",
+          "curso": "SOF-N1B",
+          "aula": "FCI-101",
+          "franja": "MIE-09",
+          "especialidad": null
+        },
+        {
+          "id": 19,
+          "materia": "SOF-M1",
+          "docente": "FCI-D1",
+          "curso": "SOF-N1B",
+          "aula": "FCI-102",
+          "franja": "JUE-07",
+          "especialidad": null
+        },
+        {
+          "id": 20,
+          "materia": "SOF-M3",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-102",
+          "franja": "JUE-09",
+          "especialidad": null
+        },
+        {
+          "id": 21,
+          "materia": "SOF-M1",
+          "docente": "FCI-D1",
+          "curso": "SOF-N1B",
+          "aula": "FCI-102",
+          "franja": "VIE-07",
+          "especialidad": null
+        },
+        {
+          "id": 22,
+          "materia": "SOF-M3",
+          "docente": "FCI-D3",
+          "curso": "SOF-N1B",
+          "aula": "FCI-101",
+          "franja": "VIE-09",
+          "especialidad": null
+        }
+      ]
+    }
+  ]
+}
